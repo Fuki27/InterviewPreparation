@@ -1,0 +1,10 @@
+
+http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-and-answers/
+
+* .NET compilation process
+	http://geekswithblogs.net/manjunath.k/archive/2013/06/12/.net-framework-compilation-proces.aspx
+* Managed vs Unmanaged code
+	Managed code is what Visual Basic .NET and C# compilers create. It runs on the CLR (Common Language Runtime), which, among other things, offers services like garbage collection, run-time type checking, and reference checking. So, think of it as, "My code is managed by the CLR."Visual Basic and C# can only produce managed code, so, if you're writing an application in one of those languages you are writing an application managed by the CLR. If you are writing an application in Visual C++ .NET you can produce managed code if you like, but it's optional. Unmanaged code compiles straight to machine code. So, by that definition all code compiled by traditional C/C++ compilers is 'unmanaged code'. Also, since it compiles to machine code and not an intermediate language it is non-portable. No free memory management or anything else the CLR provides.Since you cannot create unmanaged code with Visual Basic or C#, in Visual Studio all unmanaged code is written in C/C++.
+* How works hash map
+* SOLID
+* Inheritance, Abstraction, Encapsulation, Polymorphism 
