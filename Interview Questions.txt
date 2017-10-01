@@ -9,4 +9,18 @@ http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-a
 * Boxing and unboxing
 * What is the difference between a struct and a class in C#
 * SOLID
+	- SRP (Single responsibility principle)
+	- Open closed principle	
+	- Liskov substitution principle
+		Liskov's notion of a behavioral subtype defines a notion of substitutability for objects; that is, if S is a subtype of T, then objects of type T in a program may be replaced with objects of type S without altering any of the desirable properties of that program (e.g. correctness).
+	- Interface segregation principle
+		The interface-segregation principle (ISP) states that no client should be forced to depend on methods it does not use.[1] ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces.ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy.
+		
+	- Dependency inversion principle
+		A. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+		B. Abstractions should not depend on details. Details should depend on abstractions.
+		https://www.intertech.com/Blog/the-dependency-inversion-principle-with-c-examples/
 * Inheritance, Abstraction, Encapsulation, Polymorphism 
+* abstract, sealed, override, virtual, new(hide and shadowing), async, volatile
+* Difference between const and readonly variables.
+* Difference between abstract classes and interfaces.
