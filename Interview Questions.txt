@@ -24,3 +24,11 @@ http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-a
 * abstract, sealed, override, virtual, new(hide and shadowing), async, volatile
 * Difference between const and readonly variables.
 * Difference between abstract classes and interfaces.
+* Object oriented design patterns
+	http://www.oodesign.com/
+* Events and delegates in C#
+* Event-Driven programming
+		
+		
+		
+		
