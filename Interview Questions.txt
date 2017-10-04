@@ -28,7 +28,7 @@ http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-a
 	http://www.oodesign.com/
 * Events and delegates in C#
 * Event-Driven programming
-* Algorithms and Data Structures like sorting and search algorithms, tree traversals
+* Algorithms(Sorting and Serching) and Data Structures(linear structures, trees and graphs, hash maps and multiples and submultiples, algorithm complexity, comparison between data structures) like sorting and search algorithms, tree traversals
 * Databases and DML operators – common understanding of main principles, good understanding how to design simple DB, unique and foreign key constraints, indexes, join operator, be able to use your knowledge to define simple tables for concrete examples
 		
 		
