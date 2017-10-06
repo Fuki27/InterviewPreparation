@@ -5,31 +5,37 @@ http://www.c-sharpcorner.com/UploadFile/8ef97c/C-Sharp-net-interview-questions-a
 	http://geekswithblogs.net/manjunath.k/archive/2013/06/12/.net-framework-compilation-proces.aspx
 * Managed vs Unmanaged code
 	Managed code is what Visual Basic .NET and C# compilers create. It runs on the CLR (Common Language Runtime), which, among other things, offers services like garbage collection, run-time type checking, and reference checking. So, think of it as, "My code is managed by the CLR."Visual Basic and C# can only produce managed code, so, if you're writing an application in one of those languages you are writing an application managed by the CLR. If you are writing an application in Visual C++ .NET you can produce managed code if you like, but it's optional. Unmanaged code compiles straight to machine code. So, by that definition all code compiled by traditional C/C++ compilers is 'unmanaged code'. Also, since it compiles to machine code and not an intermediate language it is non-portable. No free memory management or anything else the CLR provides.Since you cannot create unmanaged code with Visual Basic or C#, in Visual Studio all unmanaged code is written in C/C++.
-* How works hash map
-* Boxing and unboxing
-* What is the difference between a struct and a class in C#
-* SOLID
-	- SRP (Single responsibility principle)
+* SOLID Principles
+	- Single responsibility principle
 	- Open closed principle	
 	- Liskov substitution principle
 		Liskov's notion of a behavioral subtype defines a notion of substitutability for objects; that is, if S is a subtype of T, then objects of type T in a program may be replaced with objects of type S without altering any of the desirable properties of that program (e.g. correctness).
 	- Interface segregation principle
-		The interface-segregation principle (ISP) states that no client should be forced to depend on methods it does not use.[1] ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces.ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy.
-		
+		The interface-segregation principle (ISP) states that no client should be forced to depend on methods it does not use.[1] ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces.ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy.		
 	- Dependency inversion principle
 		A. High-level modules should not depend on low-level modules. Both should depend on abstractions.
 		B. Abstractions should not depend on details. Details should depend on abstractions.
 		https://www.intertech.com/Blog/the-dependency-inversion-principle-with-c-examples/
 * Inheritance, Abstraction, Encapsulation, Polymorphism 
-* abstract, sealed, override, virtual, new(hide and shadowing), async, volatile
-* Difference between const and readonly variables.
-* Difference between abstract classes and interfaces.
 * Object oriented design patterns
 	http://www.oodesign.com/
+* Algorithms(Sorting and Seаrching)
+* Data Structures	
+	- linear structures
+	- trees and graphs
+	- hash maps and multiples and submultiples
+	- algorithm complexity
+	- comparison between data structures
 * Events and delegates in C#
 * Event-Driven programming
-* Algorithms(Sorting and Serching) and Data Structures(linear structures, trees and graphs, hash maps and multiples and submultiples, algorithm complexity, comparison between data structures) like sorting and search algorithms, tree traversals
-* Databases and DML operators – common understanding of main principles, good understanding how to design simple DB, unique and foreign key constraints, indexes, join operator, be able to use your knowledge to define simple tables for concrete examples
+	* Publish/Substribe pattern
+	* Event aggregation patterns
+* Databases and DML operators
+	- common understanding of main principles
+	- good understanding how to design simple DB
+	- unique and foreign key constraints, indexes 
+	- join operator, be able to use your knowledge to define simple tables for concrete examples	
+* abstract, sealed, override, virtual, new(hide and shadowing), async, volatile
 		
 		
 		
