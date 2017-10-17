@@ -3,6 +3,7 @@
 близост						- proximity, closeness
 
 В
+вероятност					- likely
 взаимносвързан				- interconnected
 връзка						- link, connection, relation, relationship
 въпреки това 				- nevertheless, though
@@ -22,6 +23,7 @@
 
 Н
 накратко					- In a nutshell
+няма връщане назад			- there is no going back
 
 О
 отричам						- deny, negate
@@ -31,6 +33,7 @@
 
 П
 позволявам					- permit, allow
+получател					- recipient
 последствия					- consequences
 по същество					- In essence
 правя заключение			- conclude	
@@ -43,7 +46,9 @@
 С
 следователно 				- therefore
 с течение на времето 		- over time
-улеснявам					- facilitate, make it easier
+
 
 У
+улеснявам					- facilitate, make it easier
 упълномощен					- authorized, commissioned
+
